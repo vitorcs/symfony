@@ -1,6 +1,10 @@
 <?php5
 phpinfo();
 
+function zuera(){
+  echo "foi-se";
+}
+
 function teste(){
   echo "Oi mundo!";
 }
