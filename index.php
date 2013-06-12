@@ -14,7 +14,7 @@ function nova() {
 }
 
 function loka() {
-	'é nóis';
+	'é nóisssssssssssss';
 }
 
 ?>
