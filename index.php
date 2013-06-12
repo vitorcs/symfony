@@ -1,5 +1,8 @@
-<?php
-
+<?php5
 phpinfo();
+
+function teste(){
+  echo "Hello World!";
+}
 
 ?>
