@@ -9,4 +9,8 @@ function nova() {
 	echo "lalalalalala";
 }
 
+function loka() {
+	'é nóis';
+}
+
 ?>
