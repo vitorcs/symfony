@@ -2,7 +2,7 @@
 phpinfo();
 
 function teste(){
-  echo "Hello World!";
+  echo "Oi mundo!";
 }
 
 function nova() {
