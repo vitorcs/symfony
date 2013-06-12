@@ -14,7 +14,7 @@ function nova() {
 }
 
 function loka() {
-	echo 'é nóisssssssssssss';
+	echo 'é nóisssssssssssss---';
 }
 
 ?>
